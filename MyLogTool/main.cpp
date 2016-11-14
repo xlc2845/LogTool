@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    Config a;
+    Config config;
     ifstream file;
     file.open("log", ios::in);
     char buf[1024];
