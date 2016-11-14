@@ -10,12 +10,13 @@ using namespace std;
 
 int main()
 {
-    Config a;
+    Config config;
     ifstream file;
     file.open("log", ios::in);
     char buf[1024];
     while (file.getline(buf, sizeof(buf))) {
-        Node a = Node((string)buf);
+        cout << buf << endl;
+        Node a = Node(buf);
         a.clip();
     }
     return 0;
