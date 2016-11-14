@@ -1,6 +1,5 @@
 #include "Node.h"
 #include <iostream>
-#include <string>
 
 using namespace std;
 
@@ -19,10 +18,9 @@ Node::~Node()
     //dtor
 }
 void Node::clip() {
-    // cout << data << endl;
+//    cout << data << endl;
     for (int i = 0; i < (int) data.length(); ++ i) {
         if (data[i] == ' ' || i == 0) {
-            // 去掉之前空格
             while(data[i] == ' ' && i < (int)data.length()) ++i;
             if (i == (int) data.length()) return;
             int j = i;
