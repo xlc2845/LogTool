@@ -1,0 +1,851 @@
+08-28 15:02:37.476 I/Telecom (15242): InCallController: onCallAdded: [262669365, CONNECTING, null, tel:10086, A, childs(0), has_parent(false), [[Capabilities:]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 15:02:37.484 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:02:37.484 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:02:37.501 I/Telecom (15242): InCallController: onCanAddCallChanged : false
+08-28 15:02:37.512 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=PENDING_OUTGOING
+08-28 15:02:37.517 I/ActivityManager(15242): START u0 {act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras)} from uid 10013 on display 0
+08-28 15:02:37.562 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to PENDING_OUTGOING
+08-28 15:02:37.768 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, null, tel:10086, A, childs(0), has_parent(false), [[Capabilities:]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:37.769 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:37.986 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities:]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:37.986 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:37.988 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:37.989 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:37.992 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:37.992 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:37.994 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:37.995 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:37.998 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:37.999 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:38.001 I/Telecom (15242): InCallController: Sending updateCall [262669365, CONNECTING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:38.002 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:38.007 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:38.008 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:38.012 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:02:38.017 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:38.017 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:38.018 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:02:38.066 I/InCall  (16518): InCallPresenter - onCallListChange oldState= PENDING_OUTGOING newState=PENDING_OUTGOING
+08-28 15:02:38.067 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to PENDING_OUTGOING
+08-28 15:02:38.161 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:38.161 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:38.166 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:38.166 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:38.181 I/InCall  (16518): Call - update Call_0 call, old state is CONNECTING, new call detail is DIALING
+08-28 15:02:38.182 I/InCall  (16518): InCallPresenter - onCallListChange oldState= PENDING_OUTGOING newState=OUTGOING
+08-28 15:02:38.182 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.264 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.265 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.265 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.268 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.269 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.269 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.273 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.274 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.274 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.278 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.279 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.279 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.283 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.283 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.284 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.287 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.288 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.288 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.293 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.293 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.294 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.297 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.297 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.297 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.301 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.302 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.302 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.374 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.375 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.375 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:38.380 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:38.380 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:38.380 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:44.387 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.387 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.388 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:44.389 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:44.389 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:44.519 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.520 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:44.521 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:44.521 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:44.530 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.536 I/Telecom (15242): InCallController: Sending updateCall [262669365, DIALING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.539 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.539 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is DIALING
+08-28 15:02:44.540 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=OUTGOING
+08-28 15:02:44.540 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to OUTGOING
+08-28 15:02:44.543 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.544 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.552 I/InCall  (16518): Call - update Call_0 call, old state is DIALING, new call detail is ACTIVE
+08-28 15:02:44.553 I/InCall  (16518): InCallPresenter - onCallListChange oldState= OUTGOING newState=INCALL
+08-28 15:02:44.553 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:44.555 I/Telecom (15242): InCallController: onCanAddCallChanged : true
+08-28 15:02:44.555 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:02:44.560 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.561 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.566 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.567 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.572 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:44.573 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:44.576 I/InCall  (16518): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:02:44.576 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:44.576 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:44.594 I/InCall  (16518): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:02:44.595 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:44.595 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:44.617 I/InCall  (16518): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:02:44.618 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:44.618 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:44.622 I/InCall  (16518): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:02:44.623 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:44.623 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.174 V/Telecom (15242): InCallAdapter: disconnectCall: InCall@1
+08-28 15:02:48.608 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:48.609 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:48.609 I/InCall  (16518): Call - update Call_0 call, old state is ACTIVE, new call detail is DISCONNECTING
+08-28 15:02:48.610 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:48.610 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.612 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:48.612 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:48.619 I/Telecom (15242): InCallController: Sending updateCall [262669365, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:48.620 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:48.631 I/Telecom (15242): InCallController: Sending updateCall [262669365, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:48.634 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:48.634 V/Telecom (15242): InCallToneMonitor: Disconnect cause: DisconnectCause [ Code: (LOCAL) Label: () Description: () Reason: (LOCAL) Tone: (27) ].
+08-28 15:02:48.634 D/Telecom (15242): InCallToneMonitor: Found a disconnected call with tone to play 2.
+08-28 15:02:48.647 D/Telecom (15242): InCallTonePlayer: run(toneId = 2)
+08-28 15:02:48.647 V/Telecom (15242): InCallTonePlayer: Creating generator
+08-28 15:02:48.659 I/InCall  (16518): Call - update Call_0 call, old state is DISCONNECTING, new call detail is DISCONNECTING
+08-28 15:02:48.660 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:48.660 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.671 V/Telecom (15242): InCallTonePlayer: Starting tone 2...waiting for 220 ms.
+08-28 15:02:48.676 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:02:48.677 I/InCall  (16518): Call - update Call_0 call, old state is DISCONNECTING, new call detail is DISCONNECTED
+08-28 15:02:48.683 I/Telecom (15242): InCallController: Sending updateCall [262669365, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@1, parent:null, children:[]]
+08-28 15:02:48.685 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:02:48.687 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:48.687 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.690 I/Telecom (15242): InCallController: onCallRemoved: [262669365, DISCONNECTED, null, tel:10086, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 15:02:48.694 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:02:48.710 I/InCall  (16518): Call - update Call_0 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:02:48.711 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:48.711 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.720 I/InCall  (16518): Call - update Call_0 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:02:48.721 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:48.721 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.725 I/InCall  (16518): Call - update Call_0 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:02:48.726 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:02:48.726 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:02:48.877 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=NO_CALLS
+08-28 15:02:48.881 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:02:48.911 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:02:48.912 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:02:48.930 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:02:48.930 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:02:48.933 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:02:48.933 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:02:53.735 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:02:53.736 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:15:09.294 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:15:09.446 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:15:09.447 I/Telecom (15242): InCallController: onCallAdded: [166442113, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 15:15:09.462 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:15:09.462 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:15:09.471 I/Telecom (15242): InCallWakeLockController: Acquiring full wake lock
+08-28 15:15:09.488 I/Telecom (15242): InCallController: onCanAddCallChanged : false
+08-28 15:15:09.499 I/Telecom (15242): InCallController: Sending updateCall [166442113, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:09.499 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:09.667 I/ActivityManager(15242): START u0 {act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras)} from uid 10013 on display 0
+08-28 15:15:09.915 I/InCall  (16518): Call - update Call_1 call, old state is INCOMING, new call detail is INCOMING
+08-28 15:15:09.916 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 15:15:09.916 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 15:15:09.932 I/InCall  (16518): Call - update Call_1 call, old state is INCOMING, new call detail is INCOMING
+08-28 15:15:09.933 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 15:15:09.933 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 15:15:23.529 D/Telecom (15242): InCallAdapter: answerCall(InCall@4,0)
+08-28 15:15:23.787 I/Telecom (15242): InCallController: Sending updateCall [166442113, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:23.788 I/InCall  (16518): Call - update Call_1 call, old state is INCOMING, new call detail is INCOMING
+08-28 15:15:23.788 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 15:15:23.789 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 15:15:23.793 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:23.798 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:23.798 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:23.799 I/InCall  (16518): Call - update Call_1 call, old state is INCOMING, new call detail is ACTIVE
+08-28 15:15:23.799 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCOMING newState=INCALL
+08-28 15:15:23.800 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:23.806 I/Telecom (15242): InCallWakeLockController: Releasing full wake lock
+08-28 15:15:23.811 I/Telecom (15242): InCallController: onCanAddCallChanged : true
+08-28 15:15:23.811 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:15:23.814 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:23.815 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:23.819 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:23.820 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:23.822 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:23.823 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:23.879 I/InCall  (16518): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:15:23.880 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:23.880 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:23.915 I/InCall  (16518): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:15:23.915 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:23.915 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:23.929 I/InCall  (16518): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:15:23.929 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:23.929 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:23.933 I/InCall  (16518): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:15:23.933 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:23.933 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:46.668 V/Telecom (15242): InCallAdapter: disconnectCall: InCall@4
+08-28 15:15:47.066 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:47.067 I/InCall  (16518): Call - update Call_1 call, old state is ACTIVE, new call detail is DISCONNECTING
+08-28 15:15:47.067 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:47.068 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:47.073 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:47.078 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:47.079 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:47.085 I/Telecom (15242): InCallController: Sending updateCall [166442113, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:47.087 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:47.093 I/Telecom (15242): InCallController: Sending updateCall [166442113, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:47.093 I/InCall  (16518): Call - update Call_1 call, old state is DISCONNECTING, new call detail is DISCONNECTING
+08-28 15:15:47.093 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:47.094 V/Telecom (15242): InCallToneMonitor: Disconnect cause: DisconnectCause [ Code: (LOCAL) Label: () Description: () Reason: (LOCAL) Tone: (27) ].
+08-28 15:15:47.094 D/Telecom (15242): InCallToneMonitor: Found a disconnected call with tone to play 2.
+08-28 15:15:47.097 D/Telecom (15242): InCallTonePlayer: run(toneId = 2)
+08-28 15:15:47.097 V/Telecom (15242): InCallTonePlayer: Creating generator
+08-28 15:15:47.100 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:47.100 V/Telecom (15242): InCallTonePlayer: Starting tone 2...waiting for 220 ms.
+08-28 15:15:47.100 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:47.115 I/InCall  (16518): Call - update Call_1 call, old state is DISCONNECTING, new call detail is DISCONNECTED
+08-28 15:15:47.119 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:47.120 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:47.128 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:15:47.131 I/Telecom (15242): InCallController: Sending updateCall [166442113, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@4, parent:null, children:[]]
+08-28 15:15:47.132 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:15:47.139 I/Telecom (15242): InCallController: onCallRemoved: [166442113, DISCONNECTED, null, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 15:15:47.149 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:15:47.167 I/InCall  (16518): Call - update Call_1 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:15:47.168 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:47.168 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:47.174 I/InCall  (16518): Call - update Call_1 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:15:47.175 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:47.175 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:47.178 I/InCall  (16518): Call - update Call_1 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:15:47.179 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:15:47.179 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:15:47.315 I/InCall  (16518): InCallPresenter - onCallListChange oldState= INCALL newState=NO_CALLS
+08-28 15:15:47.317 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:15:47.371 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:15:47.372 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:15:47.375 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:15:47.376 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:15:47.388 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:15:47.388 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:15:52.186 I/InCall  (16518): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:15:52.187 I/InCall  (16518): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:17:10.112 I/WindowState(15242): WIN DEATH: Window{4bc0cf7 u0 com.android.incallui/com.android.incallui.InCallActivity}
+08-28 15:17:10.114 D/Telecom (15242): InCallServiceConnection: onDisconnected: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:17:10.114 I/Telecom (15242): InCallController: onDisconnected from ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:17:10.115 I/Telecom (15242): InCallController: Cleaning up a failed InCallService [onDisconnect]: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:17:10.150 W/ActivityManager(15242): Scheduling restart of crashed service com.android.incallui/.InCallServiceImpl in 10998ms
+08-28 15:19:00.911 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:19:01.009 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:19:01.011 I/Telecom (15242): InCallController: Attempting to bind to [system] InCall ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}, with Intent { act=android.telecom.InCallService cmp=com.android.incallui/.InCallServiceImpl }
+08-28 15:19:01.025 W/Telecom (15242): InCallController: The service is already bound for this component ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:19:01.032 I/Telecom (15242): InCallWakeLockController: Acquiring full wake lock
+08-28 15:19:01.047 D/Telecom (15242): InCallServiceConnection: onServiceConnected: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:19:01.047 I/Telecom (15242): InCallController: onConnected to ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:19:01.048 I/Telecom (15242): InCallController: Adding 1 calls to InCallService after onConnected: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 15:19:01.053 I/Telecom (15242): InCallController: Calling onAudioStateChanged, audioState: null -> [AudioState isMuted: false, route: EARPIECE, supportedRouteMask: EARPIECE, SPEAKER]
+08-28 15:19:01.053 I/Telecom (15242): InCallController: onCanAddCallChanged : false
+08-28 15:19:01.125 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:19:01.125 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:19:01.324 I/ActivityManager(15242): START u0 {act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras)} from uid 10013 on display 0
+08-28 15:19:01.817 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 15:19:01.817 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 15:19:13.904 D/Telecom (15242): InCallAdapter: answerCall(InCall@6,0)
+08-28 15:19:14.212 I/Telecom (15242): InCallController: Sending updateCall [214206627, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:14.212 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:14.214 I/InCall  (26753): Call - update Call_0 call, old state is INCOMING, new call detail is INCOMING
+08-28 15:19:14.215 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 15:19:14.215 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:14.215 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 15:19:14.216 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:14.221 I/Telecom (15242): InCallWakeLockController: Releasing full wake lock
+08-28 15:19:14.225 I/Telecom (15242): InCallController: onCanAddCallChanged : true
+08-28 15:19:14.225 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:19:14.228 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:14.229 I/InCall  (26753): Call - update Call_0 call, old state is INCOMING, new call detail is ACTIVE
+08-28 15:19:14.229 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:14.230 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCALL
+08-28 15:19:14.230 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:14.236 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:14.237 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:14.242 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:14.242 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:14.282 I/InCall  (26753): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:19:14.284 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:14.284 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:14.310 I/InCall  (26753): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:19:14.311 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:14.311 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:14.341 I/InCall  (26753): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:19:14.343 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:14.343 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:14.350 I/InCall  (26753): Call - update Call_0 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 15:19:14.351 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:14.352 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.011 V/Telecom (15242): InCallAdapter: disconnectCall: InCall@6
+08-28 15:19:33.432 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:33.433 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:33.434 I/InCall  (26753): Call - update Call_0 call, old state is ACTIVE, new call detail is DISCONNECTING
+08-28 15:19:33.435 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:33.435 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.436 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:33.437 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:33.449 I/Telecom (15242): InCallController: Sending updateCall [214206627, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:33.456 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:33.461 I/InCall  (26753): Call - update Call_0 call, old state is DISCONNECTING, new call detail is DISCONNECTING
+08-28 15:19:33.462 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:33.463 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.467 I/Telecom (15242): InCallController: Sending updateCall [214206627, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:33.468 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:33.468 V/Telecom (15242): InCallToneMonitor: Disconnect cause: DisconnectCause [ Code: (LOCAL) Label: () Description: () Reason: (LOCAL) Tone: (27) ].
+08-28 15:19:33.468 D/Telecom (15242): InCallToneMonitor: Found a disconnected call with tone to play 2.
+08-28 15:19:33.471 D/Telecom (15242): InCallTonePlayer: run(toneId = 2)
+08-28 15:19:33.471 V/Telecom (15242): InCallTonePlayer: Creating generator
+08-28 15:19:33.476 V/Telecom (15242): InCallTonePlayer: Starting tone 2...waiting for 220 ms.
+08-28 15:19:33.479 I/InCall  (26753): Call - update Call_0 call, old state is DISCONNECTING, new call detail is DISCONNECTED
+08-28 15:19:33.487 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:33.488 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.511 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:19:33.517 I/Telecom (15242): InCallController: Sending updateCall [214206627, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@6, parent:null, children:[]]
+08-28 15:19:33.520 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 15:19:33.522 I/Telecom (15242): InCallController: onCallRemoved: [214206627, DISCONNECTED, null, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 15:19:33.526 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 15:19:33.545 I/InCall  (26753): Call - update Call_0 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:19:33.546 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:33.546 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.550 I/InCall  (26753): Call - update Call_0 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:19:33.551 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:33.551 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.555 I/InCall  (26753): Call - update Call_0 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 15:19:33.556 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 15:19:33.556 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 15:19:33.679 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=NO_CALLS
+08-28 15:19:33.682 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:19:33.747 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:19:33.747 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:19:33.750 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:19:33.751 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:19:33.771 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:19:33.772 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 15:19:38.561 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 15:19:38.561 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:58:43.340 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:58:43.468 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:58:43.469 I/Telecom (15242): InCallController: onCallAdded: [107788631, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 16:58:43.478 I/InCall  (26753): CallList - onIncoming - [Call_1, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:43.479 I/InCall  (26753): InCallPresenter - Start Full Screen in call UI
+08-28 16:58:43.480 I/InCall  (26753): InCallPresenter - Start UI  anyOtherSubActive:false
+08-28 16:58:43.481 I/InCall  (26753): InCallPresenter - startUi: updateNotification...
+08-28 16:58:43.485 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 16:58:43.485 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 16:58:43.492 I/Telecom (15242): InCallWakeLockController: Acquiring full wake lock
+08-28 16:58:43.525 I/Telecom (15242): InCallController: onCanAddCallChanged : false
+08-28 16:58:43.533 I/Telecom (15242): InCallController: Sending updateCall [107788631, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:43.534 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:43.544 I/InCall  (26753): ContactInfoCache - Query contact info: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=null, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null} didLocalLookup: false
+08-28 16:58:43.549 I/InCall  (26753): StatusBarNotifier - Will show "dismiss" action in the incoming call Notification
+08-28 16:58:43.553 I/InCall  (26753): StatusBarNotifier - Will show "answer" action in the incoming call Notification
+08-28 16:58:43.562 I/InCall  (26753): InCallPresenter - Phone switching state: NO_CALLS -> INCOMING
+08-28 16:58:43.562 I/InCall  (26753): AnswerPresenter - show AnswerFragment: true  has InCallActivity: true
+08-28 16:58:43.583 I/InCall  (26753): CallCardPresenter - onContactInfoComplete ContactCacheEntry: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=null, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null}
+08-28 16:58:43.583 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:43.585 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:58:43.595 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:43.598 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:58:43.613 I/InCall  (26753): CallCardPresenter - incoming show big avatar
+08-28 16:58:43.614 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout start
+08-28 16:58:43.614 I/InCall  (26753): AnimationCircleLayout - AVATAR clear animator
+08-28 16:58:43.615 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout end
+08-28 16:58:43.621 I/InCall  (26753): CallCardPresenter - no big avatar, show small avatar for incoming
+08-28 16:58:43.621 I/InCall  (26753): CallCardPresenter - ring call,show banner
+08-28 16:58:43.622 I/InCall  (26753): CallCardFragment - setSingleCallState: state=4,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:58:43.622 I/InCall  (26753): InCall - get call state label from state: 4
+08-28 16:58:43.656 I/InCall  (26753): ContactInfoCache - Query contact info: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=xx, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null} didLocalLookup: true
+08-28 16:58:43.656 I/InCall  (26753): ContactInfoCache - YellowPage: query yellowpage info.
+08-28 16:58:43.656 I/InCall  (26753): CallCardFragment - ImageSetHandler msg.what: 1
+08-28 16:58:43.657 I/AD-PLUGIN-SystemAdController(16437): requestSplash, package:com.android.incallui, intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }, showing:false
+08-28 16:58:43.657 I/AD-PLUGIN-SystemAdController(16437): isAppSplash intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) } aInfo:ActivityInfo{9bd402c com.android.incallui.InCallActivity} showType
+08-28 16:58:43.657 I/ActivityManager(15242): START u0 {act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras)} from uid 10013 on display 0
+08-28 16:58:43.657 I/InCall  (26753): Call - update Call_1 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:58:43.658 I/InCall  (26753): CallList - onUpdate - [Call_1, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:43.658 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:58:43.659 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:58:43.659 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:58:43.668 D/PowerKeeperEventLogManager(17062): notifyForegroundCompomentChanged ComponentInfo{com.android.incallui/com.android.incallui.InCallActivity}
+08-28 16:58:43.672 I/WtEventController(16122): dispatchSysInfoEvent AM_NEW_INTENT componentName:com.android.incallui/.InCallActivity
+08-28 16:58:43.674 I/InCall  (26753): StatusBarNotifier - Will show "dismiss" action in the incoming call Notification
+08-28 16:58:43.682 I/InCall  (26753): StatusBarNotifier - Will show "answer" action in the incoming call Notification
+08-28 16:58:43.692 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:43.694 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:43.695 I/InCall  (26753): Call - update Call_1 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:58:43.695 I/InCall  (26753): CallList - onUpdate - [Call_1, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:43.696 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:58:43.696 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:58:43.696 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:58:43.706 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:43.721 I/InCall  (26753): InCallActivity - InCallActivity onStart()...
+08-28 16:58:43.722 I/InCall  (26753): InCallPresenter - setActivity com.android.incallui.InCallPresenter@898e4ea mInCallState: INCOMING
+08-28 16:58:43.722 I/InCall  (26753): InCallPresenter - onActivityStarted
+08-28 16:58:43.723 I/InCall  (26753): InCallPresenter - notifyVideoPauseController: mIsChangingConfigurations=false
+08-28 16:58:43.723 I/InCall  (26753): InCallActivity - InCallActivity onResume()...
+08-28 16:58:43.726 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:43.728 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=1, aud=EARPIECE, isVideo=0}
+08-28 16:58:43.728 I/InCall  (26753): AnswerPresenter - show AnswerFragment: true  has InCallActivity: true
+08-28 16:58:43.728 W/InCall  (26753): String - incoming ignore call id:Call_1 mCallId:Call_1
+08-28 16:58:43.735 I/InCall  (26753): InCallActivity - InCallActivity onPause()...
+08-28 16:58:43.736 I/InCall  (26753): InCallActivity - onNewIntent: intent = Intent { act=android.intent.action.MAIN flg=0x10c40000 cmp=com.android.incallui/.InCallActivity (has extras) }
+08-28 16:58:43.737 I/InCall  (26753): AnimationCircleLayout - FINISH reset Layout start
+08-28 16:58:43.737 I/InCall  (26753): AnimationCircleLayout - FINISH clear animator
+08-28 16:58:43.737 I/InCall  (26753): AnimationCircleLayout - FINISH reset Layout end
+08-28 16:58:43.754 I/InCall  (26753): InCallActivity - InCallActivity onStop()...
+08-28 16:58:43.756 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=0, aud=EARPIECE, isVideo=0}
+08-28 16:58:43.756 I/InCall  (26753): InCallPresenter - onActivityStopped
+08-28 16:58:43.756 I/InCall  (26753): InCallPresenter - notifyVideoPauseController: mIsChangingConfigurations=false
+08-28 16:58:43.769 I/AD-PLUGIN-SystemAdController(16437): activityIdle:ActivityInfo{d29eaf5 com.android.incallui.InCallActivity} mPendingSwitchingActivityInfo:null
+08-28 16:58:43.786 D/PowerKeeperEventLogManager(17062): notifyForegroundCompomentChanged ComponentInfo{com.android.incallui/com.android.incallui.InCallActivity}
+08-28 16:58:43.789 I/Timeline(15242): Timeline: Activity_windows_visible id: ActivityRecord{2853717 u0 com.android.incallui/.InCallActivity t34} time:50588264
+08-28 16:58:43.789 I/InCall  (26753): InCallActivity - InCallActivity onStart()...
+08-28 16:58:43.790 I/InCall  (26753): InCallPresenter - setActivity com.android.incallui.InCallPresenter@898e4ea mInCallState: INCOMING
+08-28 16:58:43.790 I/InCall  (26753): InCallPresenter - onActivityStarted
+08-28 16:58:43.791 I/InCall  (26753): InCallPresenter - notifyVideoPauseController: mIsChangingConfigurations=false
+08-28 16:58:43.794 I/InCall  (26753): InCallActivity - InCallActivity onResume()...
+08-28 16:58:43.795 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:43.797 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=1, aud=EARPIECE, isVideo=0}
+08-28 16:58:43.797 I/InCall  (26753): AnswerPresenter - show AnswerFragment: true  has InCallActivity: true
+08-28 16:58:43.797 W/InCall  (26753): String - incoming ignore call id:Call_1 mCallId:Call_1
+08-28 16:58:43.811 I/AD-PLUGIN-SystemAdController(16437): activityIdle:ActivityInfo{eede08a com.android.incallui.InCallActivity} mPendingSwitchingActivityInfo:null
+08-28 16:58:43.926 I/InCall  (26753): ContactInfoCache - YellowPage: the yellowPagePhone is null, return and query MiProfile info.
+08-28 16:58:43.940 I/InCall  (26753): ContactInfoCache - MiProfile is null, return
+08-28 16:58:48.626 I/InCall  (26753): AnswerPresenter - onAnswer mCallId:Call_1,videoState:0
+08-28 16:58:48.627 D/Telecom (15242): InCallAdapter: answerCall(InCall@8,0)
+08-28 16:58:48.931 I/Telecom (15242): InCallController: Sending updateCall [107788631, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:48.933 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:48.933 I/InCall  (26753): Call - update Call_1 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:58:48.934 I/InCall  (26753): CallList - onUpdate - [Call_1, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:48.934 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:58:48.934 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:58:48.935 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:58:48.937 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:48.939 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:48.940 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:48.940 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:48.941 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:48.947 I/Telecom (15242): InCallWakeLockController: Releasing full wake lock
+08-28 16:58:48.951 I/InCall  (26753): Call - update Call_1 call, old state is INCOMING, new call detail is ACTIVE
+08-28 16:58:48.952 I/InCall  (26753): CallList - onUpdate - [Call_1, ACTIVE, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:48.955 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCALL
+08-28 16:58:48.956 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:48.956 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCALL
+08-28 16:58:48.959 I/Telecom (15242): InCallController: onCanAddCallChanged : true
+08-28 16:58:48.959 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:58:48.959 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=1, ui=1, aud=EARPIECE, isVideo=0}
+08-28 16:58:48.963 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:48.970 I/InCall  (26753): AnswerPresenter - show AnswerFragment: false  has InCallActivity: true
+08-28 16:58:48.971 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:48.971 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:48.972 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:48.975 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:48.975 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:48.979 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:48.979 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:48.980 I/InCall  (26753): CallToolsFragment - setVisible true, mode=1
+08-28 16:58:49.027 I/InCall  (26753): CallCardPresenter - onContactInfoComplete ContactCacheEntry: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=xx, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null}
+08-28 16:58:49.027 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:49.029 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:58:49.033 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:49.035 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:58:49.040 I/InCall  (26753): CallCardPresenter - incoming to nonincoming, hide big avatar
+08-28 16:58:49.040 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout start
+08-28 16:58:49.040 I/InCall  (26753): AnimationCircleLayout - AVATAR clear animator
+08-28 16:58:49.041 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout end
+08-28 16:58:49.041 I/InCall  (26753): AnimationCircleLayout - AVATAR startCircleAnimation
+08-28 16:58:49.042 I/InCall  (26753): CallCardPresenter - incoming to nonincoming, hideBanner first
+08-28 16:58:49.042 I/InCall  (26753): CallCardPresenter - ring to nonring, call back make small avatar show
+08-28 16:58:49.042 I/InCall  (26753): CallCardFragment - setSingleCallState: state=3,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:58:49.043 I/InCall  (26753): InCall - get call state label from state: 3
+08-28 16:58:49.044 I/InCall  (26753): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 16:58:49.045 I/InCall  (26753): CallList - onUpdate - [Call_1, ACTIVE, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:49.045 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:49.045 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:49.046 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:49.047 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:49.048 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.050 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.095 I/InCall  (26753): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 16:58:49.097 I/InCall  (26753): CallList - onUpdate - [Call_1, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:49.098 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:49.098 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:49.098 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:49.103 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:49.104 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.116 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:49.119 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:58:49.127 I/InCall  (26753): CallCardPresenter - other state, hide big avatar
+08-28 16:58:49.127 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:58:49.128 I/InCall  (26753): CallCardFragment - setSingleCallState: state=3,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:58:49.128 I/InCall  (26753): InCall - get call state label from state: 3
+08-28 16:58:49.129 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.130 I/InCall  (26753): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 16:58:49.130 I/InCall  (26753): CallList - onUpdate - [Call_1, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:49.131 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:49.131 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:49.131 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:49.135 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:49.136 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.140 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.141 I/InCall  (26753): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 16:58:49.142 I/InCall  (26753): CallList - onUpdate - [Call_1, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:49.143 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:49.143 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:49.143 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:49.146 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:49.147 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.149 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:49.255 I/InCall  (26753): CallCardPresenter - incoming to nonincoming, callback to show small avatar, isVideoCallActive=false
+08-28 16:58:49.258 I/InCall  (26753): CallCardPresenter - not video call active, show answer incoming banner
+08-28 16:58:49.355 I/InCall  (26753):  - AVATAR circle anim end, mIsNeedTranslateY:false
+08-28 16:58:49.356 I/InCall  (26753): AnimationCircleLayout - AVATAR directAnimationEnd, isCallBack:true
+08-28 16:58:51.727 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:51.728 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:51.728 I/InCall  (26753): Call - update Call_1 call, old state is ACTIVE, new call detail is ACTIVE
+08-28 16:58:51.729 I/InCall  (26753): CallList - onUpdate - [Call_1, ACTIVE, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:51.730 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:51.730 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:51.730 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:51.733 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:51.733 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:51.736 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:51.737 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:51.741 I/Telecom (15242): InCallController: Sending updateCall [107788631, ACTIVE, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:51.742 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:51.745 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:58:51.750 I/Telecom (15242): InCallController: Sending updateCall [107788631, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:51.750 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:51.750 V/Telecom (15242): InCallToneMonitor: Disconnect cause: DisconnectCause [ Code: (REMOTE) Label: () Description: () Reason: (Normal call clearing, NORMAL) Tone: (27) ].
+08-28 16:58:51.750 D/Telecom (15242): InCallToneMonitor: Found a disconnected call with tone to play 2.
+08-28 16:58:51.760 D/Telecom (15242): InCallTonePlayer: run(toneId = 2)
+08-28 16:58:51.760 V/Telecom (15242): InCallTonePlayer: Creating generator
+08-28 16:58:51.765 I/InCall  (26753): Call - update Call_1 call, old state is ACTIVE, new call detail is DISCONNECTED
+08-28 16:58:51.766 I/InCall  (26753): CallList - onDisconnect: [Call_1, DISCONNECTED, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:51.767 I/InCall  (26753): InCallPresenter - acquireWakeLock
+08-28 16:58:51.769 V/Telecom (15242): InCallTonePlayer: Starting tone 2...waiting for 220 ms.
+08-28 16:58:51.770 I/InCall  (26753): InCallPresenter - releaseWakeLock
+08-28 16:58:51.772 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:51.772 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:51.773 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:51.775 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:58:51.777 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=1, aud=EARPIECE, isVideo=0}
+08-28 16:58:51.778 I/Telecom (15242): InCallController: Sending updateCall [107788631, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@8, parent:null, children:[]]
+08-28 16:58:51.779 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:58:51.779 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:51.781 I/Telecom (15242): InCallController: onCallRemoved: [107788631, DISCONNECTED, null, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 16:58:51.782 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:51.784 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:58:51.787 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:58:51.793 I/InCall  (26753): CallCardPresenter - current state idle, keep state, do nothing
+08-28 16:58:51.794 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:58:51.794 I/InCall  (26753): CallCardFragment - setSingleCallState: state=10,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:58:51.794 I/InCall  (26753): InCall - get call state label from state: 10
+08-28 16:58:51.820 I/InCall  (26753): Call - update Call_1 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 16:58:51.821 I/InCall  (26753): CallList - onUpdate - [Call_1, DISCONNECTED, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:51.822 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:51.822 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:51.822 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:51.823 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:51.825 I/InCall  (26753): Call - update Call_1 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 16:58:51.826 I/InCall  (26753): CallList - onUpdate - [Call_1, DISCONNECTED, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:51.826 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:51.826 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:51.827 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:51.828 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:51.830 I/InCall  (26753): Call - update Call_1 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 16:58:51.830 I/InCall  (26753): CallList - onUpdate - [Call_1, DISCONNECTED, [Capabilities: CAPABILITY_HOLD CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:58:51.831 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:58:51.831 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:58:51.831 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:58:51.832 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:51.834 W/InCall  (26753):  - Removing call not previously disconnected Call_1
+08-28 16:58:53.767 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=NO_CALLS
+08-28 16:58:53.770 I/InCall  (26753): InCallPresenter - Hide in call UI: true
+08-28 16:58:53.773 I/InCall  (26753): InCallActivity - finish().  Dialog showing: false
+08-28 16:58:53.782 I/InCall  (26753): AnimationCircleLayout - FINISH startCircleAnimation
+08-28 16:58:53.783 I/InCall  (26753): InCallPresenter - attemptCleanup? false
+08-28 16:58:53.791 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:58:53.792 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> NO_CALLS
+08-28 16:58:53.798 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:53.801 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:53.809 I/InCall  (26753): CallCardPresenter - current state idle, keep state, do nothing
+08-28 16:58:53.810 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:58:53.811 I/InCall  (26753): CallCardPresenter - has no calls, hide banner
+08-28 16:58:53.812 I/InCall  (26753): CallCardFragment - setSingleCallState: state=2,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:58:53.812 I/InCall  (26753): InCall - get call state label from state: 2
+08-28 16:58:53.814 I/InCall  (26753): CallList - no active call 
+08-28 16:58:53.880 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 16:58:53.880 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:58:53.880 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: NO_CALLS -> NO_CALLS
+08-28 16:58:53.882 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:53.884 I/InCall  (26753): CallList - no active call 
+08-28 16:58:53.885 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 16:58:53.890 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:58:53.890 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: NO_CALLS -> NO_CALLS
+08-28 16:58:53.892 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:53.893 I/InCall  (26753): CallList - no active call 
+08-28 16:58:53.893 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 16:58:53.894 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:58:53.894 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: NO_CALLS -> NO_CALLS
+08-28 16:58:53.896 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:53.897 I/InCall  (26753): CallList - no active call 
+08-28 16:58:53.906 I/InCall  (26753): InCallActivity - InCallActivity onPause()...
+08-28 16:58:54.067 I/InCall  (26753):  - FINISH TranslateY Anim start
+08-28 16:58:54.118 I/InCall  (26753):  - FINISH circle anim end, mIsNeedTranslateY:true
+08-28 16:58:54.168 I/InCall  (26753):  - FINISH TranslateY Anim end
+08-28 16:58:54.168 I/InCall  (26753): AnimationCircleLayout - FINISH directAnimationEnd, isCallBack:true
+08-28 16:58:54.169 I/InCall  (26753):  - circle anim run to end.
+08-28 16:58:54.178 I/InCall  (26753): CallCardFragment - CallCardFragment destroyUI
+08-28 16:58:54.178 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:58:54.181 I/InCall  (26753): CallCardPresenter - current state idle, keep state, do nothing
+08-28 16:58:54.181 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:58:54.182 I/InCall  (26753): CallCardPresenter - has no calls, hide banner
+08-28 16:58:54.182 I/InCall  (26753): CallCardFragment - setSingleCallState: state=2,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:58:54.183 I/InCall  (26753): InCall - get call state label from state: 2
+08-28 16:58:54.183 I/InCall  (26753): InCallActivity - after finish InCallActivity, clear resources.
+08-28 16:58:54.192 I/InCall  (26753): CallCardFragment - ImageSetHandler msg.what: 2
+08-28 16:58:54.192 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout start
+08-28 16:58:54.193 I/InCall  (26753): AnimationCircleLayout - AVATAR clear animator
+08-28 16:58:54.193 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout end
+08-28 16:58:54.193 I/InCall  (26753): CallCardFragment - ImageSetHandler: clear image done~
+08-28 16:58:55.841 I/InCall  (26753): InCallActivity - InCallActivity onStop()...
+08-28 16:58:55.862 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:55.868 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=0, aud=EARPIECE, isVideo=0}
+08-28 16:58:55.868 I/InCall  (26753): InCallPresenter - onActivityStopped
+08-28 16:58:55.868 I/InCall  (26753): InCallPresenter - notifyVideoPauseController: mIsChangingConfigurations=false
+08-28 16:58:56.836 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 16:58:56.837 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:58:56.838 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: NO_CALLS -> NO_CALLS
+08-28 16:58:56.852 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:58:56.859 I/InCall  (26753): CallList - no active call 
+08-28 16:59:02.966 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:59:03.094 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:59:03.096 I/Telecom (15242): InCallController: onCallAdded: [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 16:59:03.103 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 16:59:03.103 I/InCall  (26753): CallList - onIncoming - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:03.104 I/Telecom (15242): InCallController: An InCallService already exists: ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}
+08-28 16:59:03.104 I/InCall  (26753): InCallPresenter - Start Full Screen in call UI
+08-28 16:59:03.104 I/InCall  (26753): InCallPresenter - Start UI  anyOtherSubActive:false
+08-28 16:59:03.104 I/InCall  (26753): InCallPresenter - startUi: updateNotification...
+08-28 16:59:03.117 I/Telecom (15242): InCallWakeLockController: Acquiring full wake lock
+08-28 16:59:03.132 I/Telecom (15242): InCallController: onCanAddCallChanged : false
+08-28 16:59:03.143 I/Telecom (15242): InCallController: Sending updateCall [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:03.144 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:03.157 I/InCall  (26753): ContactInfoCache - Query contact info: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=null, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null} didLocalLookup: false
+08-28 16:59:03.161 I/InCall  (26753): StatusBarNotifier - Will show "dismiss" action in the incoming call Notification
+08-28 16:59:03.172 I/InCall  (26753): StatusBarNotifier - Will show "answer" action in the incoming call Notification
+08-28 16:59:03.178 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:03.179 I/InCall  (26753): InCallPresenter - Phone switching state: NO_CALLS -> INCOMING
+08-28 16:59:03.179 I/InCall  (26753): AnswerPresenter - show AnswerFragment: true  has InCallActivity: true
+08-28 16:59:03.200 I/InCall  (26753): CallCardPresenter - onContactInfoComplete ContactCacheEntry: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=null, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null}
+08-28 16:59:03.200 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:59:03.202 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:59:03.212 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:59:03.213 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:59:03.223 I/InCall  (26753): CallCardPresenter - incoming show big avatar
+08-28 16:59:03.223 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout start
+08-28 16:59:03.224 I/InCall  (26753): AnimationCircleLayout - AVATAR clear animator
+08-28 16:59:03.224 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout end
+08-28 16:59:03.225 I/InCall  (26753): CallCardPresenter - no big avatar, show small avatar for incoming
+08-28 16:59:03.225 I/InCall  (26753): CallCardPresenter - ring call,show banner
+08-28 16:59:03.226 I/InCall  (26753): CallCardFragment - setSingleCallState: state=4,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:59:03.226 I/InCall  (26753): InCall - get call state label from state: 4
+08-28 16:59:03.251 I/AD-PLUGIN-SystemAdController(16437): requestSplash, package:com.android.incallui, intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }, showing:false
+08-28 16:59:03.251 I/AD-PLUGIN-SystemAdController(16437): isAppSplash intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) } aInfo:ActivityInfo{849e7d7 com.android.incallui.InCallActivity} showType
+08-28 16:59:03.252 I/ActivityManager(15242): START u0 {act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras)} from uid 10013 on display 0
+08-28 16:59:03.262 I/WtEventController(16122): dispatchSysInfoEvent AM_NEW_INTENT componentName:com.android.incallui/.InCallActivity
+08-28 16:59:03.270 I/InCall  (26753): ContactInfoCache - Query contact info: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=xx, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null} didLocalLookup: true
+08-28 16:59:03.271 I/InCall  (26753): ContactInfoCache - YellowPage: query yellowpage info.
+08-28 16:59:03.271 I/InCall  (26753): CallCardFragment - ImageSetHandler msg.what: 1
+08-28 16:59:03.273 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:59:03.273 I/InCall  (26753): CallList - onUpdate - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:03.274 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:59:03.274 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:59:03.275 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:59:03.283 I/InCall  (26753): StatusBarNotifier - Will show "dismiss" action in the incoming call Notification
+08-28 16:59:03.285 D/PowerKeeperEventLogManager(17062): notifyForegroundCompomentChanged ComponentInfo{com.android.incallui/com.android.incallui.InCallActivity}
+08-28 16:59:03.295 I/InCall  (26753): StatusBarNotifier - Will show "answer" action in the incoming call Notification
+08-28 16:59:03.317 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:03.318 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:03.320 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:03.320 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:59:03.321 I/InCall  (26753): CallList - onUpdate - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:03.321 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:59:03.322 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:59:03.322 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:59:03.325 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:03.327 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:03.330 I/InCall  (26753): InCallActivity - onNewIntent: intent = Intent { act=android.intent.action.MAIN flg=0x10c40000 cmp=com.android.incallui/.InCallActivity (has extras) }
+08-28 16:59:03.331 I/InCall  (26753): AnimationCircleLayout - FINISH reset Layout start
+08-28 16:59:03.331 I/InCall  (26753): AnimationCircleLayout - FINISH clear animator
+08-28 16:59:03.331 I/InCall  (26753): AnimationCircleLayout - FINISH reset Layout end
+08-28 16:59:03.340 I/InCall  (26753): InCallActivity - InCallActivity onStart()...
+08-28 16:59:03.342 I/InCall  (26753): InCallPresenter - setActivity com.android.incallui.InCallPresenter@898e4ea mInCallState: INCOMING
+08-28 16:59:03.342 I/InCall  (26753): InCallPresenter - onActivityStarted
+08-28 16:59:03.343 I/InCall  (26753): InCallPresenter - notifyVideoPauseController: mIsChangingConfigurations=false
+08-28 16:59:03.343 I/InCall  (26753): InCallActivity - InCallActivity onResume()...
+08-28 16:59:03.345 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:03.347 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=1, aud=EARPIECE, isVideo=0}
+08-28 16:59:03.347 I/InCall  (26753): AnswerPresenter - show AnswerFragment: true  has InCallActivity: true
+08-28 16:59:03.348 W/InCall  (26753): String - incoming ignore call id:Call_2 mCallId:Call_2
+08-28 16:59:03.377 I/AD-PLUGIN-SystemAdController(16437): activityIdle:ActivityInfo{36568c4 com.android.incallui.InCallActivity} mPendingSwitchingActivityInfo:null
+08-28 16:59:03.467 I/InCall  (26753): ContactInfoCache - YellowPage: the yellowPagePhone is null, return and query MiProfile info.
+08-28 16:59:03.479 I/InCall  (26753): ContactInfoCache - MiProfile is null, return
+08-28 16:59:03.804 I/Timeline(15242): Timeline: Activity_windows_visible id: ActivityRecord{2853717 u0 com.android.incallui/.InCallActivity t34} time:50608279
+08-28 16:59:05.320 D/Telecom (15242): InCallAdapter: rejectCall(InCall@10,false,null)
+08-28 16:59:05.344 I/Telecom (15242): InCallController: Sending updateCall [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:05.345 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:05.345 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:59:05.346 I/InCall  (26753): CallList - onUpdate - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.346 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:59:05.346 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:59:05.346 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:59:05.349 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.351 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.353 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.643 I/Telecom (15242): InCallController: Sending updateCall [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:05.645 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:05.646 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:59:05.647 I/InCall  (26753): CallList - onUpdate - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.647 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:59:05.647 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:59:05.647 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:59:05.653 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.654 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.658 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.666 I/Telecom (15242): InCallController: Sending updateCall [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:05.667 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:05.673 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:59:05.675 I/InCall  (26753): CallList - onUpdate - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.675 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:59:05.675 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:59:05.676 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:59:05.678 I/Telecom (15242): InCallController: Sending updateCall [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:05.680 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.680 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:05.681 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.686 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.690 I/Telecom (15242): InCallController: Sending updateCall [31323426, RINGING, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:05.690 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:05.694 I/Telecom (15242): InCallController: Sending updateCall [31323426, DISCONNECTED, com.android.phone/com.android.services.telephony.TelephonyConnectionService, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}] ==> [InCall@10, parent:null, children:[]]
+08-28 16:59:05.695 I/Telecom (15242): InCallController: Components updated: [ComponentInfo{com.android.incallui/com.android.incallui.InCallServiceImpl}]
+08-28 16:59:05.695 V/Telecom (15242): InCallToneMonitor: Disconnect cause: DisconnectCause [ Code: (REJECTED) Label: () Description: () Reason: (INCOMING_REJECTED) Tone: (-1) ].
+08-28 16:59:05.695 D/Telecom (15242): InCallToneMonitor: Found a disconnected call with tone to play 0.
+08-28 16:59:05.696 I/Telecom (15242): InCallWakeLockController: Releasing full wake lock
+08-28 16:59:05.697 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is INCOMING
+08-28 16:59:05.704 I/InCall  (26753): CallList - onUpdate - [Call_2, INCOMING, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_RESPOND_VIA_TEXT CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.708 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCOMING
+08-28 16:59:05.708 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCOMING
+08-28 16:59:05.709 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCOMING
+08-28 16:59:05.711 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.712 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.714 I/InCall  (26753): VideoCallPresenter - checkForOrientationAllowedChange: currentOrientationMode=-1, newOrientationMode=-1
+08-28 16:59:05.720 I/Telecom (15242): InCallController: onCanAddCallChanged : true
+08-28 16:59:05.720 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:59:05.724 I/Telecom (15242): InCallController: onCallRemoved: [31323426, DISCONNECTED, null, tel:13810317873, A, childs(0), has_parent(false), [[Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE CAPABILITY_SPEED_UP_MT_AUDIO]], false, ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, [356a192b7913b04c54574d18c28d46e6395428ab], UserHandle{0}]
+08-28 16:59:05.725 I/InCall  (26753): Call - update Call_2 call, old state is INCOMING, new call detail is DISCONNECTED
+08-28 16:59:05.726 I/InCall  (26753): CallList - onDisconnect: [Call_2, DISCONNECTED, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.727 I/InCall  (26753): InCallPresenter - acquireWakeLock
+08-28 16:59:05.728 D/Telecom (15242): MiuiCallsManager:  entered manageDsdaInCallTones 
+08-28 16:59:05.730 I/InCall  (26753): InCallPresenter - releaseWakeLock
+08-28 16:59:05.731 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCOMING newState=INCALL
+08-28 16:59:05.732 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:59:05.732 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCOMING -> INCALL
+08-28 16:59:05.735 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.735 I/InCall  (26753): AnswerPresenter - show AnswerFragment: false  has InCallActivity: true
+08-28 16:59:05.738 I/InCall  (26753): CallCardPresenter - onContactInfoComplete ContactCacheEntry: ContactCacheEntry{name=null, number=xxxxxxxxxxx, location=xx, label=null, photo=null, yellowPagePhone=null, isSipCall=false, contactUri=null, displayPhotoUri=null, contactExists=false, isEmergencyNumber=false, isVioceMailNumber=false, isOnlineChecked=false, mOnlineCheckInfo=, miProfile=miProfile is null}
+08-28 16:59:05.738 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:59:05.741 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:59:05.748 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:59:05.752 W/InCall  (26753): CallCardPresenter - createCallCardInfo:  markTitle:null markCount:null phoneTag:null extraInfo:null isSupect:false
+08-28 16:59:05.760 I/InCall  (26753): CallCardPresenter - current state idle, keep state, do nothing
+08-28 16:59:05.760 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:59:05.761 I/InCall  (26753): CallCardFragment - setSingleCallState: state=10,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:59:05.761 I/InCall  (26753): InCall - get call state label from state: 10
+08-28 16:59:05.788 I/InCall  (26753): Call - update Call_2 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 16:59:05.789 I/InCall  (26753): CallList - onUpdate - [Call_2, DISCONNECTED, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.789 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:59:05.789 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:59:05.789 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:59:05.791 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.792 I/InCall  (26753): Call - update Call_2 call, old state is DISCONNECTED, new call detail is DISCONNECTED
+08-28 16:59:05.793 I/InCall  (26753): CallList - onUpdate - [Call_2, DISCONNECTED, [Capabilities: CAPABILITY_SUPPORT_HOLD CAPABILITY_MUTE], children:[], parent:null, videoState:0, mIsActivSub:false, mSessionModificationState:0, conferenceable:[], VideoSettings:(CameraDir:-1)]
+08-28 16:59:05.793 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=INCALL
+08-28 16:59:05.793 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to INCALL
+08-28 16:59:05.793 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> INCALL
+08-28 16:59:05.795 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.797 W/InCall  (26753):  - Removing call not previously disconnected Call_2
+08-28 16:59:05.804 I/InCall  (26753): InCallPresenter - onCallListChange oldState= INCALL newState=NO_CALLS
+08-28 16:59:05.805 I/InCall  (26753): InCallPresenter - Hide in call UI: true
+08-28 16:59:05.805 I/InCall  (26753): InCallActivity - finish().  Dialog showing: false
+08-28 16:59:05.806 I/InCall  (26753): AnimationCircleLayout - FINISH startCircleAnimation
+08-28 16:59:05.806 I/InCall  (26753): InCallPresenter - attemptCleanup? false
+08-28 16:59:05.807 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:59:05.807 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: INCALL -> NO_CALLS
+08-28 16:59:05.808 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.809 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:59:05.814 I/InCall  (26753): CallCardPresenter - current state idle, keep state, do nothing
+08-28 16:59:05.815 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:59:05.815 I/InCall  (26753): CallCardPresenter - has no calls, hide banner
+08-28 16:59:05.817 I/InCall  (26753): CallCardFragment - setSingleCallState: state=2,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:59:05.818 I/InCall  (26753): InCall - get call state label from state: 2
+08-28 16:59:05.818 I/InCall  (26753): CallList - no active call 
+08-28 16:59:05.823 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 16:59:05.823 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:59:05.823 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: NO_CALLS -> NO_CALLS
+08-28 16:59:05.825 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.826 I/InCall  (26753): CallList - no active call 
+08-28 16:59:05.826 I/InCall  (26753): InCallPresenter - onCallListChange oldState= NO_CALLS newState=NO_CALLS
+08-28 16:59:05.826 I/InCall  (26753): InCallPresenter - onCallListChange newState changed to NO_CALLS
+08-28 16:59:05.826 I/InCall  (26753): InCallPresenter - onCallListChange: Phone switching state: NO_CALLS -> NO_CALLS
+08-28 16:59:05.828 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:05.830 I/InCall  (26753): CallList - no active call 
+08-28 16:59:06.082 I/InCall  (26753):  - FINISH TranslateY Anim start
+08-28 16:59:06.134 I/InCall  (26753):  - FINISH circle anim end, mIsNeedTranslateY:true
+08-28 16:59:06.186 I/InCall  (26753):  - FINISH TranslateY Anim end
+08-28 16:59:06.187 I/InCall  (26753): AnimationCircleLayout - FINISH directAnimationEnd, isCallBack:true
+08-28 16:59:06.187 I/InCall  (26753):  - circle anim run to end.
+08-28 16:59:06.227 I/InCall  (26753): CallCardFragment - CallCardFragment destroyUI
+08-28 16:59:06.227 I/InCall  (26753): CallCardPresenter - updateSingleDisplayInfo: update single display
+08-28 16:59:06.234 I/InCall  (26753): CallCardPresenter - current state idle, keep state, do nothing
+08-28 16:59:06.235 I/InCall  (26753): CallCardPresenter - other state, show small avatar
+08-28 16:59:06.235 I/InCall  (26753): CallCardPresenter - has no calls, hide banner
+08-28 16:59:06.236 I/InCall  (26753): CallCardFragment - setSingleCallState: state=2,videoState=0,sessionModificationState=0,isConference=false
+08-28 16:59:06.236 I/InCall  (26753): InCall - get call state label from state: 2
+08-28 16:59:06.237 I/InCall  (26753): InCallActivity - after finish InCallActivity, clear resources.
+08-28 16:59:06.247 I/InCall  (26753): InCallActivity - InCallActivity onPause()...
+08-28 16:59:06.268 I/InCall  (26753): CallCardFragment - ImageSetHandler msg.what: 2
+08-28 16:59:06.269 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout start
+08-28 16:59:06.269 I/InCall  (26753): AnimationCircleLayout - AVATAR clear animator
+08-28 16:59:06.269 I/InCall  (26753): AnimationCircleLayout - AVATAR reset Layout end
+08-28 16:59:06.270 I/InCall  (26753): CallCardFragment - ImageSetHandler: clear image done~
+08-28 16:59:06.277 I/InCall  (26753): InCallActivity - InCallActivity onStop()...
+08-28 16:59:06.279 I/InCall  (26753): StatusBarNotifier - sendBroadcast ACTION_ENTER_INCALL_SCREEN_DURING_CALL, hide green bar!!
+08-28 16:59:06.285 I/InCall  (26753): ProximitySensor - ProximitySensor{keybrd=0, dpad=0, offhook=0, ui=0, aud=EARPIECE, isVideo=0}
+08-28 16:59:06.288 I/InCall  (26753): InCallPresenter - onActivityStopped
+08-28 16:59:06.288 I/InCall  (26753): InCallPresenter - notifyVideoPauseController: mIsChangingConfigurations=fals
